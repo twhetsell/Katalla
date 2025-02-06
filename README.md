@@ -1,3 +1,3 @@
 # Katalla
 
-Compiler framework for creating domain specific languages that run on Microsoft Dynamic Language Runtime (DLR).
+Compiler framework for creating domain specific languages that run on the Microsoft .Net Dynamic Language Runtime (DLR).
