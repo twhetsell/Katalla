@@ -1,4 +1,4 @@
-# Katalla
+# Katalla DLR Compiler Framework 
 
 Compiler framework for creating languages that run on the Microsoft .Net Dynamic Language Runtime (DLR).
 
